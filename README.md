@@ -25,7 +25,7 @@ The Entity Relationship Diagram(ERD) below shows the connectivity between the 9 
 9. **olist_product_category_name_translation**: This table is connected to products database.
 ## Approach
 
-Success criteria for this analysis stage is to answer the above questions with the available data and information. To archive this the following steps and techniques are applied:
+Success criteria for this analysis stage is to answer the business questions with the available data and information. To archive this the following steps and techniques are applied:
 1. Data import and wrangling
 2. Exploratory data analysis
 3. Time series visualization
