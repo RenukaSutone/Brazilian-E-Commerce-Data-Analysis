@@ -66,16 +66,8 @@ Goal: getting insights around order composition and customer buying habits.
 
 3. **Order profile**:The orders are generally small, as expected for e-commerce. Very few orders have more than one SKU. 79% SIO (single-item-orders), 93% SLO (single-line-orders).
 
-4. **Pareto chart**:The pareto chart shows almost the typically expected 80/20 profile. That means, there is a good distinction between the product's velocities. Under under circumstances this would be a base for a clever product allocation to different pick methods and technologies in a warehouse.
-
-5. **SKU classification**:The ABC classes explain how frequently an item was picked in the observed time period. It shows that that there is no SKU ranked as X-mover and only some very few as Y. This is an extreme instance and shows that the SKUs are in general very infrequently picked.
-
-6. **Customers resident location**:Customers live in 4,119 unique cities in 27 unique states.
+4. **Customers resident location**:Customers live in 4,119 unique cities in 27 unique states.
 The imbalanced distribution accross cities and states need to be kept in mind when drawing conclusions of statistical nature.There are 14,994 unique zip code prefixes.
-
-7. **Customers joining date**:The date of the first order is assumed to be the user sign-up date.
-Many new cutomers appeared on Black Friday. It is interesting to see that the impact is not very pronounced when looking at the cumulative customer count for the total time span. Overall, the increase of customers has an upward trend. The trendline is slightly exponential, which means that the growth is accelerating slowly.
-
 
 
 ## Recommendation System
